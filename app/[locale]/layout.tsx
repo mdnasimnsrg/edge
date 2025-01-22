@@ -9,8 +9,8 @@ import { Poppins } from 'next/font/google'
 import './globals.css'
 
 export const metadata = {
-  title: 'Rabet',
-  description: 'Rabet Dashboard'
+  title: 'EDGE',
+  description: 'EDGE Dashboard'
 }
 
 const PoppinsFont = Poppins({

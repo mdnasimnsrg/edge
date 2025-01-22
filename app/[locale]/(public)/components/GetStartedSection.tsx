@@ -1,7 +1,6 @@
 import { Button } from '@/components/ui/button'
 import { Link } from '@/navigatios'
 import Image from 'next/image'
-import { SectionTitle } from './SectionTitle'
 
 const timeLineSteps = [
   'Step 1: Register Your Account.',

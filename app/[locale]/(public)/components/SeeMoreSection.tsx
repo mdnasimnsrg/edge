@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import { SectionTitle } from './SectionTitle'
 import { SeeMoreCard } from './SeeMoreCard'
 
 export function SeeMoreSection() {

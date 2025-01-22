@@ -5,7 +5,6 @@ import { Button } from '@/components/ui/button'
 import { PRODUCTS_ENDPOINT } from '@/endpoints/products'
 import { useRequester } from '@/hooks/useRequester'
 import { Link } from '@/navigatios'
-import { SectionTitle } from './SectionTitle'
 import { ServiceCard } from './ServiceCard'
 
 export function ServicesSection() {

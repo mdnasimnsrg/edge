@@ -5,7 +5,7 @@ import { HeroSection } from './components/HeroSection'
 import { SeeMoreSection } from './components/SeeMoreSection'
 import { ServicesSection } from './components/ServicesSection'
 
-export const metadata: Metadata = { title: 'Rabet' }
+export const metadata: Metadata = { title: 'EDGE' }
 export default function Index() {
   return (
     <>
