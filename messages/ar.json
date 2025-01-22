@@ -1,0 +1,35 @@
+{
+  "navBar": {
+    "home": "الرئيسيه",
+    "our-offering": "ماذا نقدم",
+    "products": "الخدمات",
+    "get-started": "اليه الاشتراك",
+    "login": "تسجيل الدخول",
+    "dashboard": "لوحة التحكم"
+  },
+  "LoginPage": {
+    "title": "مرحبا بك في Rabet",
+    "Username": "اسم المستخدم",
+    "Password": "كلمة المرور",
+    "rememberMe": "تذكرني",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "createAccount": "انشاء حساب",
+    "signIn": "تسجيل الدخول",
+    "empoweringConnectionsProtectingData": "Empowering Connections, Protecting Data"
+  },
+  "ForgotPasswordPage": {
+    "title": "استرجاع كلمه السر",
+    "email": "البريد الالكتروني",
+    "empoweringConnectionsProtectingData": "Empowering Connections, Protecting Data",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "createAccount": "انشاء حساب"
+  },
+  "home": {},
+  "login": {
+    "title": "سجل الدخول للمتابعة.",
+    "email": "البريد الالكتروني",
+    "password": "كلمة المرور",
+    "login": "تسجيل الدخول"
+  }
+}

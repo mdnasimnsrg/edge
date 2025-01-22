@@ -1,0 +1,35 @@
+{
+  "navBar": {
+    "home": "Home",
+    "our-offering": "Our offering",
+    "products": "Services",
+    "get-started": "Get started",
+    "login": "Login",
+    "dashboard": "Dashboard"
+  },
+  "LoginPage": {
+    "title": "Welcome to Edge Engine",
+    "Username": "Username",
+    "Password": "Password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "dontHaveAccount": "Don't have an account?",
+    "createAccount": "Create account",
+    "signIn": "Sign in",
+    "empoweringConnectionsProtectingData": "Maximizing Revenue, Securing Connections"
+  },
+  "ForgotPasswordPage": {
+    "title": "Forgot Password",
+    "email": "Email",
+    "empoweringConnectionsProtectingData": "Maximizing Revenue, Securing Connections",
+    "dontHaveAccount": "Don't have an account?",
+    "createAccount": "Create account"
+  },
+  "home": {},
+  "login": {
+    "title": "Please log in to continue.",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login"
+  }
+}
